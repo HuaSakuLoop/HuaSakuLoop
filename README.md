@@ -44,28 +44,28 @@
 
 <p><sub>A few builds from the workshop.</sub></p>
 
-<table>
+<table width="100%" cellpadding="8" cellspacing="0">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/HuaSakuLoop/PingPang_Detection_Car">
-        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=PingPang_Detection_Car&theme=tokyonight&hide_border=true&border_radius=12" alt="PingPang Detection Car" width="100%" />
+        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=PingPang_Detection_Car&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=1" alt="PingPang Detection Car" width="400" height="120" />
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/HuaSakuLoop/MyWeb">
-        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=MyWeb&theme=tokyonight&hide_border=true&border_radius=12" alt="MyWeb" width="100%" />
+        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=MyWeb&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=1" alt="MyWeb" width="400" height="120" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/HuaSakuLoop/MyDraw">
-        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=MyDraw&theme=tokyonight&hide_border=true&border_radius=12" alt="MyDraw" width="100%" />
+        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=MyDraw&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=1" alt="MyDraw" width="400" height="120" />
       </a>
     </td>
-    <td width="50%">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/HuaSakuLoop/ChatGPTDevHub">
-        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=ChatGPTDevHub&theme=tokyonight&hide_border=true&border_radius=12" alt="ChatGPTDevHub" width="100%" />
+        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=ChatGPTDevHub&theme=tokyonight&hide_border=true&border_radius=12&description_lines_count=1" alt="ChatGPTDevHub" width="400" height="120" />
       </a>
     </td>
   </tr>
