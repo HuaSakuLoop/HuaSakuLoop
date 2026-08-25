@@ -40,11 +40,6 @@
 | 🌱 **Learning** | Backend Engineering · AI Applications | 🎨 **Into** | 二次元 · 游戏 · 视觉表达 |
 | 🚀 **Exploring** | Developer Tools · Web Apps · Computer Vision | 💌 **Open to** | 开源项目 · 技术交流 · 有趣想法 |
 
-<p>
-  开源项目、技术交流、奇怪但有趣的想法，都可以来找我。<br />
-  <a href="https://github.com/HuaSakuLoop">→ 进入我的 GitHub 世界</a>
-</p>
-
 ## ✦ Selected Projects
 
 <p><sub>A few builds from the workshop.</sub></p>
@@ -98,28 +93,21 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuaSakuLoop&bg_color=0B1020&color=FFB3D1&line=FF77AA&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  <a href="https://github.com/HuaSakuLoop">
+    <img src="https://github.pumbas.net/api/contributions/HuaSakuLoop?colour=FF6FAE&bgColour=0B1020&dotColour=FFB3D1&borderRadius=12&days=365" alt="HuaSakuLoop contribution graph" width="100%" />
+  </a>
 </p>
 
 ## ✦ Current Status
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>🌸 夜樱观测站</h3>
-      <p>
-        <code>mood&nbsp;&nbsp;&nbsp;&nbsp;: curious</code><br />
-        <code>focus&nbsp;&nbsp;&nbsp; : backend × AI</code><br />
-        <code>side quest: anime / games / ideas</code><br />
-        <code>status&nbsp;&nbsp;&nbsp;: building something nice</code>
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <strong>Thanks for visiting</strong><br />
-      <sub>愿你的下一个 build，也有一点魔法。✨</sub>
-    </td>
-  </tr>
-</table>
+> 🌸 **夜樱观测站**<br />
+> `mood: curious` · `focus: backend × AI` · `side quest: anime / games / ideas`<br />
+> `status: building something nice`
+
+<p align="center">
+  <strong>Thanks for visiting</strong><br />
+  <sub>愿你的下一个 build，也有一点魔法。✨</sub>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FAE,50:2A1B46,100:080B18&height=105&section=footer" alt="SakuraLoop night-sakura footer" width="100%" />
