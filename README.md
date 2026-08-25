@@ -1,23 +1,36 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:34234F,100:FF7EB6&height=220&section=header&text=SakuraLoop&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Code%20the%20feeling%20%7C%20Record%20the%20game%20life&descAlignY=58&descSize=16&animation=twinkling" alt="SakuraLoop header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,48:2A1B46,100:FF6FAE&height=230&section=header&text=SakuraLoop&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Code%20the%20feeling%20%7C%20Record%20the%20game%20life&descAlignY=59&descSize=16&animation=twinkling" alt="SakuraLoop night-sakura header" width="100%" />
 </p>
 
-<h1 align="center">花千树 · SakuraLoop</h1>
+<table>
+  <tr>
+    <td width="62%" valign="middle">
+      <h1>花千树 · SakuraLoop</h1>
+      <p>
+        <strong>Developer · AI tinkerer · 二次元爱好者</strong><br />
+        把灵感写进代码，把热爱留在屏幕里。
+      </p>
+      <p>
+        <code>backend</code>&nbsp; <code>AI</code>&nbsp; <code>visual thinking</code>
+      </p>
+      <p>
+        <sub>🌸 夜樱观测站 / online</sub><br />
+        <sub>当前任务：把每一次构建，都做得更有一点魔法。</sub>
+      </p>
+      <p>
+        <a href="https://github.com/HuaSakuLoop"><img src="https://img.shields.io/badge/ENTER%20THE%20GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Enter GitHub" /></a>
+        <a href="https://github.com/HuaSakuLoop?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+      </p>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/hatsune-miku.png" alt="Hatsune Miku fan art greeting visitors" width="330" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <strong>Developer · AI tinkerer · 二次元爱好者</strong><br />
-  把灵感写进代码，把热爱留在屏幕里。<br />
-  <sub>🌸 夜樱观测站 / online</sub>
+  <em>「写代码的时候保持好奇，追番的时候保持热爱。」</em>
 </p>
-
-<p align="center">
-  <a href="https://github.com/HuaSakuLoop"><img src="https://img.shields.io/badge/GitHub-HuaSakuLoop-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/HuaSakuLoop?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-</p>
-
-<br />
-
-> 「写代码的时候保持好奇，追番的时候保持热爱。」
 
 ## ✦ Character Sheet
 
@@ -84,6 +97,10 @@
 
 ## ✦ Status
 
+<table>
+  <tr>
+    <td width="58%">
+
 ```text
 ╭─ 夜樱观测站 ─────────────────────────╮
 │  mood      : curious                  │
@@ -93,10 +110,14 @@
 ╰───────────────────────────────────────╯
 ```
 
-<p align="center">
-  <sub>Thanks for visiting — may your next build feel a little magical. ✨</sub>
-</p>
+    </td>
+    <td width="42%" align="center">
+      <strong>Thanks for visiting</strong><br />
+      <sub>愿你的下一个 build，也有一点魔法。✨</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7EB6,50:34234F,100:0B1020&height=100&section=footer" alt="SakuraLoop footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FAE,50:2A1B46,100:080B18&height=110&section=footer" alt="SakuraLoop night-sakura footer" width="100%" />
 </p>
