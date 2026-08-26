@@ -51,24 +51,24 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/HuaSakuLoop/PingPang_Detection_Car">
-        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=PingPang_Detection_Car&theme=tokyonight&hide_border=true&border_radius=12" alt="PingPang Detection Car" />
+        <img src="https://github-readme-stats-j8du.vercel.app/api/pin/?username=HuaSakuLoop&repo=PingPang_Detection_Car&theme=tokyonight&hide_border=true&border_radius=12" alt="PingPang Detection Car" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/HuaSakuLoop/MyWeb">
-        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=MyWeb&theme=tokyonight&hide_border=true&border_radius=12" alt="MyWeb" />
+        <img src="https://github-readme-stats-j8du.vercel.app/api/pin/?username=HuaSakuLoop&repo=MyWeb&theme=tokyonight&hide_border=true&border_radius=12" alt="MyWeb" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/HuaSakuLoop/MyDraw">
-        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=MyDraw&theme=tokyonight&hide_border=true&border_radius=12" alt="MyDraw" />
+        <img src="https://github-readme-stats-j8du.vercel.app/api/pin/?username=HuaSakuLoop&repo=MyDraw&theme=tokyonight&hide_border=true&border_radius=12" alt="MyDraw" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/HuaSakuLoop/ChatGPTDevHub">
-        <img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/pin/?username=HuaSakuLoop&repo=ChatGPTDevHub&theme=tokyonight&hide_border=true&border_radius=12" alt="ChatGPTDevHub" />
+        <img src="https://github-readme-stats-j8du.vercel.app/api/pin/?username=HuaSakuLoop&repo=ChatGPTDevHub&theme=tokyonight&hide_border=true&border_radius=12" alt="ChatGPTDevHub" />
       </a>
     </td>
   </tr>
@@ -86,13 +86,13 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-pearl-theta-40.vercel.app/api?username=HuaSakuLoop&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" /></td>
-    <td><img src="https://github-readme-stats-pearl-theta-40.vercel.app/api/top-langs/?username=HuaSakuLoop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></td>
+    <td><img src="https://github-readme-stats-j8du.vercel.app/api?username=HuaSakuLoop&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" /></td>
+    <td><img src="https://github-readme-stats-j8du.vercel.app/api/top-langs/?username=HuaSakuLoop&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuaSakuLoop&bg_color=0B1020&color=FFB3D1&line=FF77AA&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/FF77AA/HuaSakuLoop" alt="Contribution graph" width="100%" />
 </p>
 
 ## ✦ Status
